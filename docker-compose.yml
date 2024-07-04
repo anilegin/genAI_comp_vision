@@ -9,7 +9,6 @@ services:
     volumes:
       - ./data/:/app/data
       - ./notebooks/:/app/notebooks
-      - ./scripts/:/app/scripts
     deploy:
       resources:
         reservations:
