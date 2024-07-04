@@ -7,13 +7,13 @@ genAI face generation using VAE and GAN
 Run the following command to build environment:
 
 ```
-docker compose build
+docker-compose build
 ```
 
 ### Running the container
 
 ```
-docker compose up
+docker-compose up
 ```
 
 Jupyter will be available in your local browser, on the port specified in your env file - for example
