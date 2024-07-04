@@ -4,7 +4,7 @@ genAI face generation using VAE and GAN
 
 ### Building the Docker image
 
-Run the following command to build environment:
+Run the following command to build environment (it requires GPU to run otherwise use docker-compose-cpu):
 
 ```
 docker-compose build
