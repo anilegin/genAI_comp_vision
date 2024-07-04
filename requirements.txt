@@ -15,3 +15,5 @@ tensorflow==2.10.1
 tensorboard==2.10.1
 tensorflow_probability==0.18.0
 flake8-nb==0.5.2
+opencv-python==4.7.0.72
+tqdm==4.64.1
